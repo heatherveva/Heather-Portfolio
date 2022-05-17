@@ -1,0 +1,125 @@
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
+
+a:hover {
+  color: #6eb589;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #6eb589;
+  background-color: transparent;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
+
+body {
+  background-color: #6d80a6;
+}
+
+.btn:hover {
+  color: #2a2155;
+}
+
+h1 {
+  font-family: "Oleo Script Swash Caps", cursive;
+  font-size: 6rem;
+  color: white;
+  font-weight: bolder;
+}
+
+h2 {
+  font-family: "Thasadith", sans-serif;
+  font-size: 200%;
+  color: white;
+}
+
+footer {
+  font-family: "Thasadith", sans-serif;
+  font-size: 100%;
+  color: white;
+}
+
+.bgcolor {
+  background-color: #6d80a6;
+}
+
+.biocard {
+  margin: 0 auto; /* Added */
+  float: none; /* Added */
+  margin-bottom: 10px; /* Added */
+  width: 45rem;
+  border: 2px solid #ddd;
+  padding: 5px;
+}
+
+img {
+  border: 2px solid #ddd;
+  padding: 5px;
+  width: 300px;
+  border-radius: 2px;
+}
+
+.cardcolor {
+  background-color: #6d80a6;
+}
+
+.card-content {
+  font-family: "Thasadith", sans-serif;
+  font-size: 100%;
+  color: white;
+}
+
+.btncolor {
+  color: #6d80a6;
+  background-color: white;
+}
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.flex-parent {
+  display: flex;
+}
+
+.jc-center {
+  justify-content: center;
+}
+
+.linkcolor {
+  font-family: "Thasadith", sans-serif;
+  font-size: 100%;
+  color: white;
+  font-weight: bolder;
+}
+
+.linkcolor:hover {
+  color: #2a2155;
+}
+
+.margin {
+  margin-top: 3rem;
+}
+
+.marginlandr {
+  margin-right: 1rem;
+  margin-left: 1rem;
+}
+
+.subhead {
+  font-family: "Oleo Script Swash Caps", cursive;
+  font-size: 4rem;
+  color: white;
+}
+
+.ta-c {
+  text-align: center;
+}
