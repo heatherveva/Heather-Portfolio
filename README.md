@@ -16,5 +16,5 @@ This site is accessible and mobile responsive.
 
 ## Links to Application
 
-- Here is a link to the repository: https://github.com/heatherveva/portfolio.git
-- Here is the page: https://heatherveva.github.io/portfolio/
+- Here is a link to the repository: https://github.com/heatherveva/heather.git
+- Here is the app deployed on Heroku: https://heatherveva.github.io/portfolio/
