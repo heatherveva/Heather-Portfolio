@@ -6,15 +6,15 @@
 
 This portfolio was built using HTML, CSS, Bootstrap, React, and JSX.
 
-This portfolio includes three main sections: About Me, Projects, and Contact Me. The projects section contains three projects, complete with images, a brief description, and links to the deployed application and the GitHub repo.
+This portfolio includes three main sections: About Me, Projects, and Contact Me. The projects section contains three projects, complete with images, a brief description, and links to the deployed application and the GitHub repository.
 
 This site is accessible and mobile responsive.
 
 ## Screenshot
 
-![This developer portfolio contains a title with the developers name and three unique sections: "About Me", "Projects", and "Contact".](./assets/portfolio.png)
+![This developer portfolio contains a title with the developer's name and three unique sections: "About Me", "Projects", and "Contact Me". It's a light blue background with white text.](./assets/portfolio.png)
 
 ## Links to Application
 
 - Here is a link to the repository: https://github.com/heatherveva/heather.git
-- Here is the app deployed on Heroku: https://heatherveva.github.io/portfolio/
+- Here is the app deployed on Heroku: https://heather-stevens-portfolio.herokuapp.com/
