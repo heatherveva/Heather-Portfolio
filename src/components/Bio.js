@@ -27,7 +27,7 @@ function Bio() {
           </p>
           <p className="text-center">
             When I'm not working in tech, you can find me training for my next
-            marathon or spending time with my dog, Olive.
+            marathon or spending time with my rescue dog, Olive.
           </p>
         </div>
       </div>
