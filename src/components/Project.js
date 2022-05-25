@@ -111,7 +111,7 @@ function Project() {
         <div className="col col-md-3 margin marginlandr">
           <div className="card border border-3 border-white h-100">
             <a
-              href="https://github.com/heatherveva/RegEx-Tutorial/blob/main/regexmatchurl.md"
+              href="https://alphabet-game-project.herokuapp.com/"
               target="_blank"
             >
               <img
@@ -123,8 +123,8 @@ function Project() {
             <div className="card-body card-content bgcolor">
               <h5 className="card-title text-center">Letter Scramble</h5>
               <p className="card-text text-center">
-                An app to assist children continue their Enlgish spelling
-                practice from home.
+                An app to help children practice their Enlgish spelling from
+                home.
               </p>
             </div>
             <div className="card-body bgcolor text-center">
