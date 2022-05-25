@@ -2,13 +2,15 @@ import React from "react";
 import bookbuddy from "../assets/images/bookbuddy.png";
 import recipeme from "../assets/images/recipeme.png";
 import techtalk from "../assets/images/techtalk.png";
+import alphabet from "../assets/images/alphabetgame.png";
+import regex from "../assets/images/regex.png";
 
 function Project() {
   return (
     <>
       <h2 className="margin subhead text-center ">Projects</h2>
       <div className="row justify-content-md-center margin">
-        <div className="col col-md-3 ">
+        <div className="col col-md-3 marginlandr">
           <div className="card border border-3 border-white h-100">
             <a href="https://highfivers.github.io/project/" target="_blank">
               <img
@@ -42,7 +44,7 @@ function Project() {
           </div>
         </div>
 
-        <div className="col col-md-3">
+        <div className="col col-md-3 marginlandr">
           <div className="card border border-3 border-white h-100">
             <a href="https://project-2-jhmm.herokuapp.com/" target="_blank">
               <img
@@ -76,7 +78,75 @@ function Project() {
           </div>
         </div>
 
-        <div className="col col-md-3">
+        <div className="col col-md-3 marginlandr">
+          <div className="card border border-3 border-white h-100">
+            <a
+              href="https://github.com/heatherveva/RegEx-Tutorial/blob/main/regexmatchurl.md"
+              target="_blank"
+            >
+              <img
+                src={regex}
+                className="card-img-top"
+                alt="This is a recipe builder application. The background is light pink and there are options to select ingredients."
+              ></img>
+            </a>
+            <div className="card-body card-content bgcolor">
+              <h5 className="card-title text-center">RegEx Tutorial</h5>
+              <p className="card-text text-center">
+                Breaking down the Javascript regular expression to match a URL.
+              </p>
+            </div>
+            <div className="card-body bgcolor text-center">
+              <a
+                href="https://github.com/heatherveva/RegEx-Tutorial/blob/main/regexmatchurl.md"
+                target="_blank"
+                className="card-content card-link linkcolor"
+              >
+                GitHub
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div className="col col-md-3 margin marginlandr">
+          <div className="card border border-3 border-white h-100">
+            <a
+              href="https://github.com/heatherveva/RegEx-Tutorial/blob/main/regexmatchurl.md"
+              target="_blank"
+            >
+              <img
+                src={alphabet}
+                className="card-img-top"
+                alt="This is a recipe builder application. The background is light pink and there are options to select ingredients."
+              ></img>
+            </a>
+            <div className="card-body card-content bgcolor">
+              <h5 className="card-title text-center">Letter Scramble</h5>
+              <p className="card-text text-center">
+                An app to assist children continue their Enlgish spelling
+                practice from home.
+              </p>
+            </div>
+            <div className="card-body bgcolor text-center">
+              <a
+                href="https://github.com/alphabetgame/projectthree"
+                target="_blank"
+                className="card-content card-link linkcolor"
+              >
+                GitHub
+              </a>
+              <a
+                href="https://alphabet-game-project.herokuapp.com/"
+                target="_blank"
+                className="card-content card-link linkcolor"
+              >
+                Heroku
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div className="col col-md-3 margin marginlandr">
           <div className="card border border-3 border-white h-100">
             <a
               href="https://techbloghomeworkfourteen.herokuapp.com/"
